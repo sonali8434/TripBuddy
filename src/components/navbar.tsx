@@ -12,7 +12,7 @@ function Navbar() {
       <div className='max-w-4xl mx-auto flex justify-between items-center px-4  h-[5vh]'>
         <div className='flex gap-2'>
             <AlignEndHorizontal/>
-            <span className='font-bold text-black'>Travel Planner</span>
+            <span className='font-bold text-black'>TripBuddy</span>
         </div>
         <div className='flex items-center gap-4'>
             
