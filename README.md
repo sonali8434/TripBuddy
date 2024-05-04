@@ -1,6 +1,6 @@
-# AI Travel Planner
+# TripBuddy: AI Travel Planner
 
-AI Travel Planner is a web application designed to assist users in planning their travel itineraries using artificial intelligence. Leveraging Next.js, Tailwind CSS, and the OpenAI API, this project provides an intuitive chat interface powered by GPT-3, enabling seamless communication for personalized travel recommendations and planning.
+TripBuddy the AI Travel Planner is a web application designed to assist users in planning their travel itineraries using artificial intelligence. Leveraging Next.js, Tailwind CSS, and the OpenAI API, this project provides an intuitive chat interface powered by GPT-3, enabling seamless communication for personalized travel recommendations and planning.
 
 ## Features
 
